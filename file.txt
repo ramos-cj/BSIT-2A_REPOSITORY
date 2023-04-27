@@ -1,1 +1,2 @@
-Hello World
+Hello World!
+Hello BSIT-2A WELCOME TO GIT AND HUB.
